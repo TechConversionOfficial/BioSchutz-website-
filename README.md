@@ -1,94 +1,162 @@
+# BioSchutz Website | Premium Marine-Care Ecommerce by Tech Conversion
 
-# BioSchutz website: premium marine care with a luxury ecommerce experience
+**BioSchutz is a premium marine-care brand serving yacht and boat owners in the UAE. Its [website](https://bioschutz.eu/) brings specialist marine cleaning and surface-care products into a single ecommerce experience, with a refined luxury presentation, product-specific information, online shopping and direct enquiry routes. The project is featured in the [Tech Conversion](https://techconversion.tech/) portfolio.**
 
-**BioSchutz is a premium marine-care brand serving yacht and boat owners in the UAE. Its [website](https://bioschutz.eu/) brings specialist marine cleaning and surface-care products into a single ecommerce experience, with a luxury visual style, product-specific information, online shopping and direct enquiry routes. The website is featured in the [Tech Conversion](https://techconversion.tech/) portfolio.**
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/bioschutz-website-mockup.webp" title="View the full BioSchutz website portfolio mockup">
+    <img src="https://techconversion.tech/api/media/portfolio/bioschutz-website-mockup.webp" alt="BioSchutz premium marine-care ecommerce website: official Tech Conversion portfolio mockup" width="100%" />
+  </a>
+</p>
 
-![BioSchutz marine-care website project card featured in the Tech Conversion portfolio](images/bioschutz-portfolio-card.webp)
+<p align="center">
+  <a href="https://bioschutz.eu/"><strong>Live Website</strong></a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion Portfolio</strong></a>
+  &nbsp;&bull;&nbsp;
+  <a href="#full-length-website-screenshot"><strong>Full-page Screenshot</strong></a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://techconversion.tech/contact"><strong>Work With Us</strong></a>
+</p>
+
+---
+
+## Project at a Glance
 
 | | |
-|---|---|
+| :--- | :--- |
 | **Client** | BioSchutz |
-| **Website** | [bioschutz.eu](https://bioschutz.eu/) |
-| **Industry** | Marine care, yacht-maintenance products, ecommerce |
-| **Market** | Dubai and the UAE, as shown on the client's website |
-| **Built by** | [Tech Conversion](https://techconversion.tech/), Chennai, India (portfolio credit) |
-| **Project type** | Premium marine-care ecommerce website |
-| **Related services** | [Ecommerce website development](https://techconversion.tech/services/ecommerce), [Custom website development](https://techconversion.tech/services/custom-websites) |
-| **Portfolio** | [techconversion.tech/portfolio](https://techconversion.tech/portfolio) |
+| **Live website** | [bioschutz.eu](https://bioschutz.eu/) |
+| **Industry** | Marine care, yacht-maintenance products and ecommerce |
+| **Primary market** | Dubai and the UAE, as presented on the client's website |
+| **Developed by** | [Tech Conversion](https://techconversion.tech/), Chennai, India (portfolio credit) |
+| **Project category** | Premium marine-care ecommerce website |
+| **Related services** | [Ecommerce development](https://techconversion.tech/services/ecommerce) and [custom website development](https://techconversion.tech/services/custom-websites) |
+| **Official showcase** | [Tech Conversion portfolio](https://techconversion.tech/portfolio) |
 
-## About the business
+## About BioSchutz
 
-- **What it does:** BioSchutz offers marine cleaning and maintenance products for yachts and boats. The catalogue includes wash-and-wax products, cleaners for glass and stainless steel, teak care, rust and salt removal, bilge and engine cleaning, toilet treatment and hull care.
-- **Who it serves:** yacht owners, boat owners and marine-care buyers looking for products suited to demanding coastal and saltwater conditions.
-- **Where it operates:** the public website presents Dubai Marina contact information, UAE phone numbers, AED product prices and a UAE-focused shopping experience.
-- **How it positions its products:** the brand emphasises a premium finish, surface protection and environmental considerations. Claims such as biodegradability, coral safety and conservation partnerships are the **brand's published claims**; this repository does not independently certify them.
+BioSchutz provides specialist cleaning, maintenance and surface-care products for yachts and boats. Its catalogue includes boat wash and wax, glass and stainless-steel care, teak treatments, rust and salt removal, hull maintenance, bilge and engine cleaning, onboard sanitation and other marine-care products.
 
-## The website challenge
+- **Who it serves:** yacht and boat owners, marine-care professionals and buyers looking for products designed for coastal and saltwater conditions.
+- **Where it operates:** the public website displays Dubai Marina contact information, UAE phone numbers and product prices in AED.
+- **Brand positioning:** the site combines a premium marine-lifestyle visual identity with specialist product information and environmental messaging.
+- **Important distinction:** product-performance, biodegradability, coral-safety and environmental-partnership statements are claims published by BioSchutz, not claims independently certified by this portfolio repository.
 
-Marine-care purchasing is more specific than ordinary household cleaning. A buyer may need a different formula for teak, stainless steel, glass, fiberglass, hull growth or onboard sanitation. A specialist online shop therefore has to help visitors find the correct treatment while maintaining the premium identity expected by yacht owners.
+## The Website Challenge
 
-BioSchutz also presents sustainability and product-performance messages. These need to sit alongside practical product information rather than replace it. **This describes the communication challenge visible in the finished site; it is not evidence that an earlier site had these problems.**
+Marine-care purchasing is more specialised than buying a general-purpose household cleaner. A visitor may need one product for teak, another for stainless steel, a different treatment for fiberglass or a dedicated formula for onboard sanitation. The website has to make those choices understandable without losing the polished identity expected of a luxury marine brand.
 
-## How the website presents the solution
+A strong experience therefore needs to do two jobs at once: **communicate a premium brand** and **help a visitor discover the right product for a specific maintenance task**. BioSchutz also publishes sustainability and surface-protection messages, which need to sit alongside practical descriptions, options and shopping actions.
 
-1. **Lead with the marine-luxury positioning.** The homepage pairs a premium yacht-care message with clear routes to explore products and the brand's philosophy.
-2. **Organise products by maintenance task.** Categories distinguish general washing, furniture care, glass and metal, exterior care, teak and wood, sanitation, rust removal, hull cleaning, and bilge and engine cleaning.
-3. **Make product choice easier.** Individual product listings present descriptions, available variants and AED prices where applicable.
-4. **Explain the care routine.** The brand's "Clean, Protect, Preserve" message gives a memorable framework for its approach to marine maintenance.
-5. **Bring commerce and enquiries together.** Visitors can browse the catalogue and selected products, use shopping actions and contact the Dubai-based team.
-6. **Keep environmental positioning visible.** Sustainability-related language is integrated into the public website while the detailed claims remain the responsibility of BioSchutz.
-7. **Support practical decisions.** The catalogue names specific applications such as boat wash and wax, rust removal, glass care and stainless-steel polishing rather than relying only on broad lifestyle language.
+This section describes the communication challenge apparent from the finished website; it does not assert that an earlier version suffered from these issues.
 
-## Website and portfolio images
+## How the Website Presents the Solution
 
-### BioSchutz project card
+1. **Premium marine positioning.** The opening experience introduces yacht-care products using a luxury-oriented visual language and direct routes into the product catalogue.
+2. **Task-based discovery.** Products are grouped by use, including washing, furniture, glass and metal, exterior care, teak and wood, sanitation, rust removal, hull cleaning and bilge or engine maintenance.
+3. **Product-specific details.** Individual product pages provide descriptions, available variations and prices in AED where applicable.
+4. **Memorable brand philosophy.** The published **Clean, Protect, Preserve** framework ties together the brand's approach to marine upkeep.
+5. **Shopping and enquiries.** The site combines browsing and purchase actions with direct contact details and an enquiry form.
+6. **Distinct environmental message.** Sustainability language is part of BioSchutz's public-facing positioning; the brand remains responsible for substantiating its claims.
+7. **Practical care information.** Naming surfaces and applications helps visitors distinguish among treatments instead of navigating vague lifestyle categories.
 
-![BioSchutz website project card with marine-cleaning hero design, from an existing Tech Conversion portfolio artwork](images/bioschutz-portfolio-card.webp)
+---
 
-### BioSchutz within the Tech Conversion portfolio
+## Website Design & Project Showcase
 
-![Portfolio overview including BioSchutz and other Tech Conversion projects](images/bioschutz-portfolio-context.webp)
+### Official Responsive Website Mockup
 
-**Image provenance:** Both WebP files are crops from a previously supplied *Tech Conversion Portfolio Showcase* visual. They show actual BioSchutz-labelled portfolio artwork and are stored locally so GitHub can render them without relying on a third-party image host. They are **not** independently captured screenshots of the current live site or evidence of a before-and-after redesign. Original live-site product photographs and full-page screenshots were not available to package; no additional images have been invented or labelled as genuine.
+The following presentation artwork is hosted by Tech Conversion and showcases the BioSchutz website design. Select the image to open the original file.
 
-## Key visitor journeys
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/bioschutz-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/bioschutz-website-mockup.webp" alt="Official BioSchutz website mockup from the Tech Conversion portfolio" width="100%" />
+  </a>
+</p>
 
-| Visitor's task | Public route |
-|---|---|
-| Understand the brand's marine-care proposition | [BioSchutz homepage](https://bioschutz.eu/) |
-| Browse marine-cleaning and surface-care categories | [Shop by Category on the homepage](https://bioschutz.eu/) |
-| Find wash, wax, hull, teak and sanitation products | [Product collection on the homepage](https://bioschutz.eu/) |
-| Review a detailed product example | [Marine Stainless Steel Cleaner & Polish](https://bioschutz.eu/product/bio-schutz-stainless-steel-cleaner-polish/) |
-| Contact the brand in Dubai | [Contact details and enquiry form on the homepage](https://bioschutz.eu/) |
+### Full-Length Website Screenshot
 
-Product availability, prices and published offers may change. This README records the general customer journey rather than promising a particular product is currently in stock.
+This is the **full-page BioSchutz homepage capture**, intended to show the design from top to bottom rather than only its opening hero section. The entire image is embedded at its original aspect ratio; GitHub will scale its width but will not crop its height.
 
-## Standards relevant to the website
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/bioschutz-website-home-page.webp" title="Open full-resolution BioSchutz website screenshot">
+    <img src="https://techconversion.tech/api/media/portfolio/bioschutz-website-home-page.webp" alt="BioSchutz premium yacht and marine-care ecommerce website, complete homepage screenshot from top to bottom" width="100%" />
+  </a>
+</p>
 
-These are **recommended evaluation criteria, not confirmed certifications or independently validated test results for this project**:
+**[Open the complete full-resolution homepage screenshot](https://techconversion.tech/api/media/portfolio/bioschutz-website-home-page.webp)**
 
-- [Core Web Vitals](https://web.dev/articles/vitals): review loading, responsiveness and layout stability on mobile and desktop.
-- [WCAG 2.2, Level AA](https://www.w3.org/TR/WCAG22/): check contrast, navigation, focus visibility, form labels and meaningful product-image alternatives.
-- [Google Search Essentials](https://developers.google.com/search/docs/essentials): evaluate indexing, crawlability and useful category/product content.
-- [Schema.org](https://schema.org/): use accurate organisation, breadcrumb and product structured data where appropriate.
-- **Ecommerce quality:** review product-variant behaviour, currency presentation, cart actions, checkout and enquiry forms in a controlled test.
+*These are Tech Conversion-hosted portfolio assets documenting the website presentation. They are not independent performance evidence or historical before-and-after captures. The live website may have changed since the screenshot was made.*
 
-## Before and after
+### Explore the Live Experience
 
-No authenticated screenshots of an earlier BioSchutz website, or a verified old-versus-new comparison, were available for this project record. The images above document its appearance in Tech Conversion's portfolio, **not a historical redesign comparison**.
+| Website area | What visitors can explore |
+| :--- | :--- |
+| **Brand introduction** | [BioSchutz homepage](https://bioschutz.eu/) and premium marine-care positioning |
+| **Product categories** | Marine washing, glass and metal, teak, sanitation, hull and engine treatments |
+| **Product detail example** | [Marine Stainless Steel Cleaner & Polish](https://bioschutz.eu/product/bio-schutz-stainless-steel-cleaner-polish/) |
+| **Shopping options** | Product variants, AED prices and relevant add-to-cart or selection actions |
+| **Enquiries** | Contact details and enquiry form on [bioschutz.eu](https://bioschutz.eu/) |
 
-You can browse other documented transformations at [techconversion.tech/before-after](https://techconversion.tech/before-after).
+Product availability, pricing and published offers may change. These links describe visitor routes, not a promise that any specific item is currently in stock.
 
-## Results
+## Project Highlights
 
-BioSchutz appears in the Tech Conversion portfolio as a delivered marine-care ecommerce website. No independently verified figures for organic traffic, conversion rate, ecommerce revenue, speed scores or return on investment have been supplied for this repository. Any numerical results should be published only with the measurement source, period, calculation and client approval.
+| Area | Experience presented on the website |
+| :--- | :--- |
+| **Brand identity** | Luxury marine imagery and premium product positioning |
+| **Product architecture** | Categories organised around maintenance tasks and materials |
+| **Ecommerce** | Product pages, purchasing actions, variations and AED pricing |
+| **Brand philosophy** | Clean, Protect, Preserve approach |
+| **Engagement** | Accessible routes from product exploration to direct enquiries |
+| **Content** | Marine-specific use cases and care descriptions |
+| **Visual showcase** | Portfolio mockup and full-height homepage screenshot |
+
+## Before & After
+
+An authenticated **BEFORE** screenshot has not been supplied for this project, so this README does not invent or label an old website design. The [full-length website image above](#full-length-website-screenshot) documents the delivered **AFTER/current showcase** only.
+
+Other documented redesign comparisons appear in [Tech Conversion's Before & After portfolio](https://techconversion.tech/before-after). If a genuine historical screenshot becomes available, it can be added alongside the new design using a two-column GitHub table.
+
+## Quality and Responsible Claims
+
+The following are relevant evaluation references for an ecommerce site. They are **not certifications, completed audit results or guaranteed outcomes** for BioSchutz:
+
+- [Core Web Vitals](https://web.dev/articles/vitals): real-world loading, responsiveness and visual stability.
+- [WCAG 2.2](https://www.w3.org/TR/WCAG22/): contrast, keyboard navigation, meaningful alternative text, visible focus and form accessibility.
+- [Google Search Essentials](https://developers.google.com/search/docs/essentials): indexable pages, crawlable navigation and useful product content.
+- [Schema.org](https://schema.org/): appropriate organisation, breadcrumb and product markup where supported by accurate data.
+- **Ecommerce testing:** cart actions, variants, checkout, price display and enquiry workflows should be evaluated through controlled tests.
+- **Marine and environmental claims:** any biodegradability, surface safety, conservation or performance claims require support from the brand and relevant evidence.
+
+No independent Lighthouse report, accessibility conformance statement, checkout audit or marine-product certification has been supplied for this repository.
+
+## Results and Evidence
+
+The confirmed public-facing record is Tech Conversion's inclusion of BioSchutz in its portfolio, the client's live ecommerce website and the portfolio imagery embedded above.
+
+**No independently verified project-specific numbers** for organic traffic, order volume, conversion rate, ecommerce revenue, page speed or return on investment are published here. Measured results can be added with a source, date range, calculation method and permission to publish.
 
 ## About Tech Conversion
 
-[Tech Conversion](https://techconversion.tech/) (Tech Conversion Persuasive Private Limited) is a technical and digital business-growth partner based in Chennai, India. Its published materials describe work with clients in India, the UAE and the USA since 2024 and a portfolio of more than 50 website projects.
+[Tech Conversion](https://techconversion.tech/) (**Tech Conversion Persuasive Private Limited**) is a Chennai-based website-development and digital-growth business. Its published materials describe work for clients in India, the UAE and the USA since 2024, including a portfolio of more than 50 website projects.
 
+- **Website:** [techconversion.tech](https://techconversion.tech/)
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
-- **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech), +91 91507 86547
+- **Ecommerce development:** [techconversion.tech/services/ecommerce](https://techconversion.tech/services/ecommerce)
+- **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) | +91 91507 86547
 
-This repository is a public record of the BioSchutz website project. It does **not** distribute client source code, hosting access, credentials, payment data or customer records. The included portfolio artwork is credited to Tech Conversion; underlying brand imagery and trademarks remain with their respective owners.
+## Repository Scope, Image Credits & Usage
+
+This repository is a **public portfolio record of the BioSchutz website project**. It is not a distribution of the client's private production source code, hosting access, credentials, payment details or customer records.
+
+The website mockup and long screenshot are embedded from **Tech Conversion's publicly hosted image endpoints**. They are not copied into this repository; they will remain visible on GitHub only while those endpoints continue to serve the image files. For a self-contained portfolio archive, upload authorised image copies to an `images/` folder and change the URLs to matching relative paths.
+
+BioSchutz names, trademarks, product photography and brand materials remain with their respective rights holders.
+
+**Project links:** [Live Website](https://bioschutz.eu/) &middot; [Portfolio](https://techconversion.tech/portfolio) &middot; [Full-page Screenshot](https://techconversion.tech/api/media/portfolio/bioschutz-website-home-page.webp)
+
+---
+
+<p align="center"><strong>Website project showcased by <a href="https://techconversion.tech/">Tech Conversion</a></strong></p>
